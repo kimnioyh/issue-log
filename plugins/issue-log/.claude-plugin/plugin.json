@@ -1,0 +1,11 @@
+{
+  "name": "issue-log",
+  "version": "0.1.0",
+  "description": "현재 세션에서 겪은 문제들을 Notion DB에 문제별로 요약해 기록하는 스킬. DB가 없으면 스키마대로 생성.",
+  "author": {
+    "name": "kimnioyh",
+    "url": "https://github.com/kimnioyh"
+  },
+  "keywords": ["notion", "issue-log", "retrospective", "session-log", "journal"],
+  "license": "MIT"
+}

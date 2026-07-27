@@ -1,0 +1,14 @@
+{
+  "name": "issue-log-skills",
+  "owner": {
+    "name": "kimnioyh",
+    "url": "https://github.com/kimnioyh"
+  },
+  "plugins": [
+    {
+      "name": "issue-log",
+      "source": "./plugins/issue-log",
+      "description": "현재 세션에서 겪은 문제들을 Notion DB에 문제별로 요약해 기록하는 스킬"
+    }
+  ]
+}
